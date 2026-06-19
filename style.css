@@ -14,6 +14,10 @@ header{
   padding-right:10px;
 }
 nav{
-  background-color:#2563eb;
+  background-color:#b76e79;
   padding:20px;
+}
+nav ul{
+  text-align:center;
+  padding:0;
 }
